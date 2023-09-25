@@ -11,28 +11,28 @@
         <a href="https://github.com/algorithm-boost/tmddus2">
           <img src="https://avatars.githubusercontent.com/u/49530253?v=4" width="100px;" alt=""/>
           <br/>
-          <sub><b> 승연 </b></sub>
+          <sub><b> 승연 (tmddus2) </b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/algorithm-boost/hwani">
           <img src="https://avatars.githubusercontent.com/u/111403658?v=4" width="100px;" alt=""/>
           <br/>
-          <sub><b> 지환 </b></sub>
+          <sub><b> 지환 (hwani) </b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/algorithm-boost/5tarry">
           <img src="https://avatars.githubusercontent.com/u/109569066?v=4" width="100px;" alt=""/>
           <br/>
-          <sub><b> 채리 </b></sub>
+          <sub><b> 채리 (5tarry) </b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/algorithm-boost/platinouss">
           <img src="https://avatars.githubusercontent.com/u/70827921?v=4" width="100px;" alt=""/>
           <br/>
-          <sub><b> 현종 </b></sub>
+          <sub><b> 현종 (platinouss) </b></sub>
         </a>
       </td>
   </tbody>
