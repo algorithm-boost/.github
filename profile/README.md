@@ -6,33 +6,33 @@
 **멤버**
 <table>
   <tbody>
-    <tr>
+    <tr align="center">
       <td align="center">
         <a href="https://github.com/algorithm-boost/tmddus2">
-          <img src="https://avatars.githubusercontent.com/u/49530253?v=4" width="100px;" alt=""/>
-          <br/>
-          <sup><b> 승연 (tmddus2) </b></sup>
+          <img src="https://avatars.githubusercontent.com/u/49530253?v=4" width="130px;" alt=""/>
+          <br>
+          <small> 승연 (tmddus2) </small>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/algorithm-boost/hwani">
-          <img src="https://avatars.githubusercontent.com/u/111403658?v=4" width="100px;" alt=""/>
+          <img src="https://avatars.githubusercontent.com/u/111403658?v=4" width="130px;" alt=""/>
           <br/>
-          <sup><b> 지환 (hwani) </b></sup>
+          <small> 지환 (hwani) </small>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/algorithm-boost/5tarry">
-          <img src="https://avatars.githubusercontent.com/u/109569066?v=4" width="100px;" alt=""/>
+          <img src="https://avatars.githubusercontent.com/u/109569066?v=4" width="130px;" alt=""/>
           <br/>
-          <sup><b> 채리 (5tarry) </b></sup>
+          <small> 채리 (5tarry) </small>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/algorithm-boost/platinouss">
-          <img src="https://avatars.githubusercontent.com/u/70827921?v=4" width="100px;" alt=""/>
+          <img src="https://avatars.githubusercontent.com/u/70827921?v=4" width="130px;" alt=""/>
           <br/>
-          <sup><b> 현종 (platinouss) </b></sup>
+          <small> 현종 (platinouss) </small>
         </a>
       </td>
   </tbody>
